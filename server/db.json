@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "created this stream",
+      "description": "greate stream ive created",
+      "userId": "101206486081713137054",
+      "id": 1
+    },
+    {
+      "title": "update test with patch",
+      "description": "do you think it's gonna work",
+      "userId": "101206486081713137054",
+      "id": 2
+    },
+    {
+      "title": "programmatic navigation",
+      "description": "You shouldn't see this on the form page",
+      "userId": "101206486081713137054",
+      "id": 3
+    }
+  ]
+}
